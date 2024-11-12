@@ -7,7 +7,7 @@ The files hosted here are intended for download and personal use only. By downlo
 
     No Modification or Redistribution: You may not modify, distribute, or create derivative works based on these binaries or any other files in this repository.
     No Commercial Use: This software is provided solely for personal or internal business use. Commercial redistribution or reselling of these files is strictly prohibited.
-    No Access to Source Code: The source code for [Your App's Name] is proprietary and not publicly available. This repository contains compiled builds only.
+    No Access to Source Code: The source code for crowmessage is proprietary and not publicly available. This repository contains compiled builds only.
 
 # License
 
