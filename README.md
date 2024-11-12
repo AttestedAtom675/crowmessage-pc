@@ -1,6 +1,6 @@
 # crowmessage-pc
 
-Welcome to the official build repository for CrowMessage. This repository provides compiled versions of our application for end users to download and use. Please note that the source code for this application is proprietary and not included in this repository.
+Welcome to the official build repository for CrowMessage (PC). This repository provides compiled versions of our application for end users to download and use. Please note that the source code for this application is proprietary and not included in this repository.
 Usage
 
 The files hosted here are intended for download and personal use only. By downloading any files from this repository, you agree to the following terms:
