@@ -14,6 +14,7 @@ The files hosted here are intended for download and personal use only. By downlo
 This repository does not include an open-source license, as it is intended solely for distribution of compiled application builds. Unauthorized copying, modification, or redistribution of these files, except as explicitly permitted in the terms above, is prohibited.
 
 For more information, or if you have any questions, please contact us at crowmessage.alyssa@gmail.com .
-Disclaimer
+
+# Disclaimer
 
 CrowBaseDevelopment and AttestedAtom675 reserve all rights to CrowMessage and retains all copyright, trademark, and other intellectual property rights.
